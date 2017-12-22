@@ -1,4 +1,4 @@
-package com.indi.jinlu.establish;
+package com.indi.jinlu.single;
 
 public class FullSingleton {
     private static FullSingleton fullSingleton;       //指向自己实例的私有静态引用
